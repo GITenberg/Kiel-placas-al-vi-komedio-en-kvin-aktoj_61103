@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '2528'
     url: http://www.gutenberg.org/2009/agents/2528
     wikipedia: http://en.wikipedia.org/wiki/Ivy_Kellerman_Reed
+covers:
+- cover_type: archival
+  image_path: 61103-h/images/cover.jpg
 creator:
   author:
     agent_name: Shakespeare, William
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/65
     wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61103#Kiel-placas-al-vi-komedio-en-kvin-aktoj
 gutenberg_issued: '2020-01-04'
 gutenberg_type: Text
 identifiers:
